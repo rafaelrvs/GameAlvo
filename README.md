@@ -1,3 +1,10 @@
 # GameAlvo
 
-Jogo ao clicar no alvo aparece uma mensagem escrita, acertou 
+> # status:
+> concluido.
+# ferramentas:
+> VS code.
+> node.js
+> html
+> javaScript
+
